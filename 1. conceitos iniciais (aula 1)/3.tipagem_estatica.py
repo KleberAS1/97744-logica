@@ -1,0 +1,2 @@
+# Tipagem estática
+#
