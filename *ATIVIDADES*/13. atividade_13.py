@@ -31,9 +31,6 @@ match forma_de_pagamento:
         print(f"Valor do produto: {valor_produto}")
         print(f"Quantidades de parcelas: {parcelas}")
         print(f"Valor por parcela: {}")
-
-        
-
     case _:
         print("Opção inválida")
 
